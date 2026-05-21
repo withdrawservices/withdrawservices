@@ -1,16 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**withdrawservices/withdrawservices** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# withdraw
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=9B7CFF&center=true&vCenter=true&width=500&lines=developer;ui+designer;lua+%2F+web+%2F+tools;building+clean+systems" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+**building sleek tools, clean interfaces, and experimental systems**
+
+</div>
+
+---
+
+## about me
+
+```txt
+name        withdraw
+focus       lua, web, ui systems, automation
+style       clean, dark, minimal, premium
+currently   building private tools and polished web projects
+```
+
+I like making things that feel smooth, fast, and visually clean.  
+Most of my work focuses on **Lua scripting**, **web development**, **custom UI**, and **tooling**.
+
+---
+
+## tech
+
+<div align="center">
+
+![Lua](https://img.shields.io/badge/Lua-1f1f2e?style=for-the-badge&logo=lua&logoColor=9B7CFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1f2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1f1f2e?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1f1f2e?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-1f1f2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-1f1f2e?style=for-the-badge&logo=robloxstudio&logoColor=FFFFFF)
+
+</div>
+
+---
+
+## projects
+
+```txt
+withdraw.cc      private tools, web systems, and polished UI
+cathack.cc       cat-themed branding, scripts, and experiments
+lua systems      custom menus, automation, and game-side tools
+web panels       auth, dashboards, invite systems, and admin tools
+```
+
+---
+
+## what i like building
+
+- sleek dark-mode interfaces
+- premium-looking dashboards
+- Lua tools and script systems
+- clean website flows
+- automation utilities
+- custom menus and overlays
+- experimental game systems
+
+---
+
+## current focus
+
+```txt
+building      polished private tools
+improving     ui design, web panels, and lua systems
+learning      cleaner architecture and better product flow
+```
+
+---
+
+## stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=withdrawservicesE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7CFF&icon_color=9B7CFF&text_color=C9D1D9" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withdrawservicesE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7CFF&text_color=C9D1D9" height="160" />
+
+</div>
+
+---
+
+## links
+
+<div align="center">
+
+```txt
+discord   withdraw
+web       withdraw.cc
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9B7CFF&height=90&section=footer" />
+
+</div>
