@@ -12,17 +12,7 @@
 
 ---
 
-## about me
-
-```txt
-name        withdraw
-focus       lua, web, ui systems, automation
-style       clean, dark, minimal, premium
-currently   building private tools and polished web projects
-```
-
-I like making things that feel smooth, fast, and visually clean.  
-Most of my work focuses on **Lua scripting**, **web development**, **custom UI**, and **tooling**.
+Most of my work focuses on **Lua scripting**, **web development**
 
 ---
 
@@ -44,34 +34,9 @@ Most of my work focuses on **Lua scripting**, **web development**, **custom UI**
 ## projects
 
 ```txt
-withdraw.cc      private tools, web systems, and polished UI
-cathack.cc       cat-themed branding, scripts, and experiments
-lua systems      custom menus, automation, and game-side tools
-web panels       auth, dashboards, invite systems, and admin tools
+withdraw.cc      
+cathack.cc
 ```
-
----
-
-## what i like building
-
-- sleek dark-mode interfaces
-- premium-looking dashboards
-- Lua tools and script systems
-- clean website flows
-- automation utilities
-- custom menus and overlays
-- experimental game systems
-
----
-
-## current focus
-
-```txt
-building      polished private tools
-improving     ui design, web panels, and lua systems
-learning      cleaner architecture and better product flow
-```
-
 ---
 
 ## stats
