@@ -44,8 +44,9 @@ cathack.cc
 <div align="center">
 
 ```txt
-discord   withdraw
-web       withdraw.cc
+cathack.cc
+
+withdraw.cc
 ```
 
 </div>
